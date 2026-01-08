@@ -129,7 +129,7 @@
 
 ---
 
-<details>
+<details markdown="1">
 
 <summary>📔参考　インデックスの強さ（長くなってしまったので時間があるときにどうぞ）</summary>
   
